@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Pixelify Sans";
+  src: url("./assets/PixelifySans-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+
+  font-family: "Inter";
+  src: url("./assets/Inter-VariableFont_opsz,wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+
+  font-family: "Manrope";
+  src: url("./assets/Manrope-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+}
